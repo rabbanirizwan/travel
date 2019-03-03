@@ -1,0 +1,28 @@
+.navbar-collapse{
+    padding-left: 200px ;
+}
+.icon-arrangement{
+    display: flex;
+    width: 120px;
+    justify-content: space-evenly;
+}
+.sign-in{
+       background-color: yellow;
+    height: 60px;
+    width: 94px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+}
+.navbar{
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 1.5em;
+    padding-right:0px;
+}
+.nav-item{
+    padding-left: 30px;
+    text-transform: uppercase;
+    
+}
